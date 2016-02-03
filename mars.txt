@@ -1,1 +1,4 @@
 this is something in the Mars text document
+
+Let's add a second line and see what git thinks about that.
+`
