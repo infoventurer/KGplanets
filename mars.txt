@@ -1,7 +1,7 @@
 this is something in the Mars text document
 
 Let's add a second line and see what git thinks about that.
-`
+I (rob) have made some changes right in the middle of the file.
 
 We just could go on and on and on here.
 
